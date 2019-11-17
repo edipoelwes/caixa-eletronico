@@ -43,7 +43,7 @@ if (isset($_POST['agencia']) && !empty(['agencia'])){
         background-color: white;
         border: 2px solid #000;
         padding: 20px;
-        width: 300px;
+        width: 400px;
         margin: auto;
         margin-top: 200px;
         box-shadow: 5px 5px 0px #000;
@@ -67,7 +67,6 @@ if (isset($_POST['agencia']) && !empty(['agencia'])){
         </div>
 
         <input class="btn btn-primary" type="submit" value="Enviar">
-        </div>
     </form>
 </div>
 
